@@ -34,7 +34,7 @@
 <hr>
  
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=heshmaduwantha &no-frame=false&no-bg=true&margin-w=15&margin-h=15&column=7" alt="heshmaduwantha" /> </p>
+
 
 <details>
 <summary>⭐ My GitHub Stats</summary>

@@ -34,15 +34,15 @@
 <hr>
  
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Madhusanka331&no-frame=false&no-bg=true&margin-w=15&margin-h=15&column=7" alt="Madhusanka331" /> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=heshmaduwantha &no-frame=false&no-bg=true&margin-w=15&margin-h=15&column=7" alt="heshmaduwantha" /> </p>
 
 <details>
 <summary>⭐ My GitHub Stats</summary>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Madhusanka331&show_icons=true&theme=light" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=heshmaduwantha&show_icons=true&theme=light" />
 </details>
 <details>
 <summary>📊 My Most Used Languages</summary>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhusanka331&layout=compact&theme=light" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshmaduwantha&layout=compact&theme=light" />
 </details>
 
 <hr>

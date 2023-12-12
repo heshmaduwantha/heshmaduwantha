@@ -36,10 +36,7 @@
 
 
 
-<details>
-<summary>⭐ My GitHub Stats</summary>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=heshmaduwantha&show_icons=true&theme=light" />
-</details>
+
 <details>
 <summary>📊 My Most Used Languages</summary>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshmaduwantha&layout=compact&theme=light" />

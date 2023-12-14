@@ -21,7 +21,7 @@
 
 <p align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="https://www.linkedin.com/in/chathura-madhusanka/">
+            <a href="https://www.linkedin.com/in/chathura-madhusanka/](https://www.linkedin.com/in/heshan-perera-02714b212">
   <img  alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/linkedin.svg" />
             </a> 
   &nbsp;&nbsp;

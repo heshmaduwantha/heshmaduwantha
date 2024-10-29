@@ -16,7 +16,7 @@
            <a href="#"> <img src="https://user-images.githubusercontent.com/86108734/177046847-e5a49f83-245b-41b1-8248-87f65ae68826.gif"  width="170" height="145" align="right"/>  </a>
 - 🌱 I’m currently learning ReactJS, NodeJS ,PHP ,Next.js ,Vue.js , MongoDB , SQL ,Mariadb ,Python 
 - 👩‍💻 I’m skilled in web application development
-- 📫 How to reach me **heshan5maduwantha@gmail.com**
+- 📫 How to reach me **heshan5maduwanthaa@gmail.com**
 
 
 <p align="left">

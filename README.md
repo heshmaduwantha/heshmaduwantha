@@ -56,15 +56,14 @@ I am a Software Engineer with over 3 years of experience specializing in backend
   </tr>
   <tr>
     <td colspan="3">
-      <h3 align="center"><strong>📈 GitHub Activity</strong></h3>
-      <p align="center">
-        <img src="https://activity-graph.herokuapp.com/graph?username=heshmaduwantha&theme=react&area=true&hide_border=true&count_private=true" alt="GitHub Activity" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);" />
-      </p>
+     <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heshmaduwantha&theme=dracula" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heshmaduwantha&theme=dracula" alt="Most Commit Language" />
+</p>
     </td>
   </tr>
 </table>
 
----
 
 ### 🛠️ **Featured Projects**
 

@@ -1,22 +1,3 @@
-Conversation opened. 1 unread message.
-
-Skip to content
-Using Gmail with screen readers
-1 of 4,269
-(no subject)
-Inbox
-
-Heshan Perera <heshan5maduwantha@gmail.com>
-Attachments
-12:41 PM (0 minutes ago)
-to me
-
-
-
-
-Sent from my iPhone
- One attachment
-  •  Scanned by Gmail
 <div style="background: linear-gradient(135deg, #ff9a9e 0%, #fad0c4 99%, #fad0c4 100%); padding: 80px 0; border-radius: 15px; position: relative; overflow: hidden; text-align: center; animation: gradientShift 5s ease infinite;">
 
   <h1 style="font-size: 70px; color: white; animation: float 4s ease-in-out infinite; margin-bottom: 20px;">
@@ -246,6 +227,3 @@ console.log(isTechie('designer'));  // Output: Please leave the code to the expe
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
 </p>
-
-readme.txt
-Displaying readme.txt.

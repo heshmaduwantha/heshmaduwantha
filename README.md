@@ -4,7 +4,7 @@
     Hello, I'm <a href="https://www.linkedin.com/in/heshan-perera-02714b212/" target="_blank" style="color: #ffe600; text-decoration: none;">Heshan Maduwantha</a>!
   </h1>
   <p style="font-size: 26px; color: white; font-style: italic; margin-bottom: 40px;">
-    Software Engineer | Backend Developer | Tech Enthusiast
+    Software Engineer | Full-Stack Developer | Tech Enthusiast
   </p>
   <div style="margin-top: 30px; margin-bottom: 40px;">
     <img src="https://emojis.slackmojis.com/emojis/images/1536943700/6993/thinkblob.gif" width="55" alt="Thinking Blob"/>
